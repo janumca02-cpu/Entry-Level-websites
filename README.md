@@ -1,2 +1,2 @@
-# Pet-shop-website
+# Basic-level-website
 Fron end webpage using HTML,CSS,JS
